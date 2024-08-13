@@ -1,0 +1,16 @@
+{
+    "name": "CHEvents",
+    "alias": "chevents",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\CHEvents\\Providers\\AppServiceProvider",
+        "Modules\\CHEvents\\Providers\\EventServiceProvider",
+        "Modules\\CHEvents\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
